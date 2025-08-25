@@ -90,3 +90,10 @@ This dashboard enables **data-driven decision-making** for Blinkit’s retail op
 * Supporting **strategic planning** for outlet expansion.
 * Enhancing **customer satisfaction insights** through rating analysis.
 * Offering a **visual, intuitive tool** for executives to track KPIs in real-time.
+
+---
+
+## 🖼️ DashBoard 
+
+<img width="1302" height="737" alt="image" src="https://github.com/user-attachments/assets/82f2b6c8-f539-4c0b-ae9a-1faf6489b61d" />
+
